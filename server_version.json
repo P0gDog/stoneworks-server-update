@@ -1,5 +1,5 @@
 {
-  "version": "15/09/2026-1",
-  "dry_run": true,
-  "test": true
+  "version": "29/10/2026-1",
+  "dry_run": false,
+  "test": false
 }
